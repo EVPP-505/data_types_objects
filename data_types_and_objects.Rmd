@@ -16,6 +16,11 @@ The basic types of data in R:
 4. Character (strings);
 5. Complex;
 
+```{r types}
+2+2
+```
+
+
 These together form the basis of *Atomic* vectors (See the chapter on [vectors](http://r4ds.had.co.nz/vectors.html) in R for Data Science).
 
 ## Data objects
