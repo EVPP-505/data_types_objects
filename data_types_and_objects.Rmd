@@ -1,0 +1,49 @@
+---
+title: "Introduction to Basic Data Types and Objects"
+output: html_notebook
+---
+
+Today we are going to discuss the foundations of data in R, namely, the basic types of data and objects R supports and manipulates.
+
+## Data types
+
+The basic types of data in R:
+
+1. Numeric:
+    i) Integer;
+    ii) float or double;
+3. Logical;
+4. Character (strings);
+5. Complex;
+
+These together form the basis of *Atomic* vectors (See the chapter on [vectors](http://r4ds.had.co.nz/vectors.html) in R for Data Science).
+
+## Data objects
+
+There are simple objects:
+
+1. Vectors;
+2. Arrays/Matrices
+
+and more complex objects:
+
+3. Data Frames/Tibbles
+    i) See the [tibbles](http://r4ds.had.co.nz/tibbles.html) chapter for more information
+4) Lists
+
+
+
+## Operations
+
+### Basic math operators:
+$+, -, *, /$
+
+### MATRIX operators:
+%*%  
+%+%
+
+
+
+## Indexing vectors
+
+
